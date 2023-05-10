@@ -12,7 +12,7 @@ function Header() {
           {/* <Link to="/">Home</Link> no refresh */}
           {/* <Link to="/favlist">Fav List</Link> */}
           <Nav.Link href="/">Home</Nav.Link>{/*will do a full page refresh*/}
-          <Nav.Link href="/favlist">Fav List</Nav.Link>
+          <Nav.Link href="/favMeme">Fav List</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
